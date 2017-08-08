@@ -1,0 +1,9 @@
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\bin\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.deps.json
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\bin\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.runtimeconfig.json
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\bin\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.runtimeconfig.dev.json
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\bin\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.dll
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\bin\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.pdb
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\obj\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.csprojResolveAssemblyReference.cache
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\obj\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.AssemblyInfo.cs
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\obj\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.dll
+c:\users\p076240\documents\visual studio 2017\Projects\CSharpFundamentalsForIterations\CSharpFundamentalsForIterations\obj\Debug\netcoreapp1.1\CSharpFundamentalsForIterations.pdb

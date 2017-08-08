@@ -8,7 +8,12 @@ namespace CSharpFundamentalsForIterations
         {
             for (int i =0; i < 10; i++)
             {
-                Console.WriteLine(i.ToString());
+               // Console.WriteLine(i.ToString());
+               if(i == 7)
+                {
+                    Console.WriteLine("Found seven!");
+                    break;
+                }
             }
             Console.ReadLine();
         }
